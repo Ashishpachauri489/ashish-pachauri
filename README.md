@@ -170,9 +170,9 @@ class AshishPachauri:
 | 🎯 Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
 |:-----------|:---------------|:-------------|:--------|
 | **🖥️ GUI Calculator** | Interactive calculator with graphical interface | Python, Tkinter | [View](https://github.com/Ashishpachauri489/NextHikes_Project1-Calculator-.git) |
-| **🧹 Data Wrangling** | Advanced data cleaning & preprocessing | Python, Pandas, NumPy | [View](https://github.com/DebasisBaidya/Data-Wrangling_Project-2) |
-| **📊 EDA Project** | Comprehensive exploratory data analysis | Python, Matplotlib, Seaborn | [View](https://github.com/DebasisBaidya/EDA_Project-3) |
-| **🏡 Property Price Prediction** | ML regression model for real estate | Scikit-learn, XGBoost | [View](https://github.com/DebasisBaidya/Property-Price-Prediction-Capstone_1.git) |
+| **🧹 Data Wrangling** | Advanced data cleaning & preprocessing | Python, Pandas, NumPy | [View](https://github.com/Ashishpachauri489/NextHikaes_Project2_Dataharmonization-and-Insight.git) |
+| **📊 EDA Project** | Comprehensive exploratory data analysis | Python, Matplotlib, Seaborn | [View](https://github.com/Ashishpachauri489/NextHikes_Project3_EDA-House_Price_Prediction) |
+| **🏡 Property Price Prediction** | ML regression model for real estate | Scikit-learn, XGBoost | [View](https://github.com/Ashishpachauri489/capstone-project1-Digicrome_Property_Price_Prediction) |
 | **📱 Handset Prediction** | Classification model for mobile devices | ML, Feature Engineering | [View](https://github.com/DebasisBaidya/Prediction_For_Handsets-Project-4) |
 | **📈 Strategic Business Acquisition** | Business analytics & decision making | EDA, Statistical Analysis | [View](https://github.com/DebasisBaidya/Strategic-Business-Acquisition_Project-5) |
 | **📅 Sales Forecasting** | Time series forecasting model | ARIMA, LSTM, Prophet | [View](https://github.com/DebasisBaidya/Sales_Forecasting_Project-6) |
