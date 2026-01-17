@@ -169,7 +169,7 @@ class AshishPachauri:
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
 |:-----------|:---------------|:-------------|:--------|
-| **🖥️ GUI Calculator** | Interactive calculator with graphical interface | Python, Tkinter | [View](https://github.com/AshishPachauri/GUI-Calculator_Project-1) |
+| **🖥️ GUI Calculator** | Interactive calculator with graphical interface | Python, Tkinter | [View](https://github.com/Ashishpachauri489/NextHikes_Project1-Calculator-.git) |
 | **🧹 Data Wrangling** | Advanced data cleaning & preprocessing | Python, Pandas, NumPy | [View](https://github.com/DebasisBaidya/Data-Wrangling_Project-2) |
 | **📊 EDA Project** | Comprehensive exploratory data analysis | Python, Matplotlib, Seaborn | [View](https://github.com/DebasisBaidya/EDA_Project-3) |
 | **🏡 Property Price Prediction** | ML regression model for real estate | Scikit-learn, XGBoost | [View](https://github.com/DebasisBaidya/Property-Price-Prediction-Capstone_1.git) |
